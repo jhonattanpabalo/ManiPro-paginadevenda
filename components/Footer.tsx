@@ -1,3 +1,4 @@
+
 import React from 'react';
 
 const NailPolishIcon = () => (
@@ -19,7 +20,7 @@ export const Footer: React.FC = () => {
         <p className="mt-4 text-gray-400">
           Organize seu estúdio, encante suas clientes e veja seu negócio crescer.
         </p>
-        <a href="#offer" className="mt-8 inline-block bg-pink-500 text-white font-bold text-lg px-8 py-4 rounded-full shadow-lg hover:bg-pink-600 transform hover:scale-105 transition-all">
+        <a href="https://pay.kiwify.com.br/MYEYrzF" target="_blank" rel="noopener noreferrer" className="mt-8 inline-block bg-pink-500 text-white font-bold text-lg px-8 py-4 rounded-full shadow-lg hover:bg-pink-600 transform hover:scale-105 transition-all">
           💅 Começar Agora por R$9,90/mês
         </a>
         <p className="mt-8 text-sm text-gray-500">
