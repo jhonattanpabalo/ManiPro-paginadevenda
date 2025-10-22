@@ -1,5 +1,6 @@
 {
   "name": "ManiPro Sales Page",
   "description": "A high-converting sales page for the ManiPro app, designed to help manicurists and beauty professionals manage their studios effectively. The page highlights key features, benefits, and includes a clear call to action for a monthly subscription.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "public": true
 }
