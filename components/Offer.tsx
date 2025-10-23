@@ -23,7 +23,7 @@ export const Offer: React.FC = () => {
             <li className="flex items-center"><span className="text-green-500 mr-2">✔️</span> Lembretes Automáticos</li>
             <li className="flex items-center"><span className="text-green-500 mr-2">✔️</span> Suporte Prioritário</li>
           </ul>
-          <a href="https://pay.kiwify.com.br/MYEYrzF" target="_blank" rel="noopener noreferrer" className="mt-8 w-full inline-block bg-pink-500 text-white font-bold text-lg px-8 py-4 rounded-full shadow-lg hover:bg-pink-600 transform hover:scale-105 transition-all">
+          <a href="https://pay.kiwify.com.br/u18yidv" target="_blank" rel="noopener noreferrer" className="mt-8 w-full inline-block bg-pink-500 text-white font-bold text-lg px-8 py-4 rounded-full shadow-lg hover:bg-pink-600 transform hover:scale-105 transition-all">
             👉 Quero Começar Agora
           </a>
           <p className="mt-4 text-sm text-gray-500">Cancele quando quiser. Sem burocracia.</p>
