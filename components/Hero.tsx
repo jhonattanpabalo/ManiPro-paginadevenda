@@ -14,13 +14,6 @@ export const Hero: React.FC = () => {
         <a href="https://pay.kiwify.com.br/MYEYrzF" target="_blank" rel="noopener noreferrer" className="mt-8 inline-block bg-pink-500 text-white font-bold text-lg px-8 py-4 rounded-full shadow-lg hover:bg-pink-600 transform hover:scale-105 transition-all">
           Quero Organizar Meu Estúdio Agora
         </a>
-        <div className="mt-16 max-w-4xl mx-auto">
-          <img
-            src="https://i.imgur.com/8QG3Y3f.png"
-            alt="Dashboard do App ManiPro"
-            className="rounded-2xl shadow-2xl ring-1 ring-gray-900/10"
-          />
-        </div>
       </div>
     </section>
   );
