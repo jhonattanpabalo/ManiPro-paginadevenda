@@ -17,7 +17,7 @@ export const Header: React.FC = () => {
           <NailPolishIcon />
           <h1 className="text-2xl font-bold text-gray-800">Mani<span className="text-pink-500">Pro</span></h1>
         </div>
-        <a href="https://pay.kiwify.com.br/MYEYrzF" target="_blank" rel="noopener noreferrer" className="bg-pink-500 text-white font-semibold px-4 py-2 rounded-full hover:bg-pink-600 transition-colors hidden sm:block">
+        <a href="https://pay.kiwify.com.br/u18yidv" target="_blank" rel="noopener noreferrer" className="bg-pink-500 text-white font-semibold px-4 py-2 rounded-full hover:bg-pink-600 transition-colors hidden sm:block">
           Assinar Agora
         </a>
       </div>
